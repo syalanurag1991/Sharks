@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 0d51278d53df6ea46ba2958de7b571e4
+timeCreated: 1510169107
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SeaWeed_13a001
+    100004: SeaWeed_13a002
+    100006: SeaWeed_13a003
+    100008: SeaWeed_13a004
+    100010: SeaWeed_13a005
+    100012: SeaWeed_13a006
+    100014: Xo_012
+    100016: Xo_013
+    100018: Xo_014
+    100020: Xo_015
+    100022: Xo_016
+    100024: Xo_017
+    100026: Xo_018
+    100028: Xo_019
+    100030: Xo_020
+    100032: Xo_021
+    100034: Xo_022
+    100036: Xo_023
+    100038: Xo_024
+    100040: Xo_025
+    100042: Xo_026
+    100044: Xo_027
+    100046: Xo_028
+    100048: Xo_029
+    100050: Xo_030
+    100052: Xo_031
+    100054: Xo_032
+    100056: Xo_033
+    100058: Xo_034
+    100060: Xo_035
+    100062: Xo_036
+    100064: Xo_037
+    100066: Xo_038
+    100068: Xo_039
+    100070: Xo_040
+    100072: Xo_041
+    100074: Xo_042
+    100076: Xo_043
+    100078: Xo_044
+    100080: Xo_045
+    100082: Xo_046
+    100084: Xo_047
+    400000: //RootNode
+    400002: SeaWeed_13a001
+    400004: SeaWeed_13a002
+    400006: SeaWeed_13a003
+    400008: SeaWeed_13a004
+    400010: SeaWeed_13a005
+    400012: SeaWeed_13a006
+    400014: Xo_012
+    400016: Xo_013
+    400018: Xo_014
+    400020: Xo_015
+    400022: Xo_016
+    400024: Xo_017
+    400026: Xo_018
+    400028: Xo_019
+    400030: Xo_020
+    400032: Xo_021
+    400034: Xo_022
+    400036: Xo_023
+    400038: Xo_024
+    400040: Xo_025
+    400042: Xo_026
+    400044: Xo_027
+    400046: Xo_028
+    400048: Xo_029
+    400050: Xo_030
+    400052: Xo_031
+    400054: Xo_032
+    400056: Xo_033
+    400058: Xo_034
+    400060: Xo_035
+    400062: Xo_036
+    400064: Xo_037
+    400066: Xo_038
+    400068: Xo_039
+    400070: Xo_040
+    400072: Xo_041
+    400074: Xo_042
+    400076: Xo_043
+    400078: Xo_044
+    400080: Xo_045
+    400082: Xo_046
+    400084: Xo_047
+    4300000: SeaWeed_13a004
+    4300002: SeaWeed_13a005
+    4300004: SeaWeed_13a006
+    4300006: SeaWeed_13a001
+    4300008: SeaWeed_13a002
+    4300010: SeaWeed_13a003
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SeaWeed_13a001
+    13700002: SeaWeed_13a002
+    13700004: SeaWeed_13a003
+    13700006: SeaWeed_13a004
+    13700008: SeaWeed_13a005
+    13700010: SeaWeed_13a006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

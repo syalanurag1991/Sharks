@@ -1,0 +1,17 @@
+{
+    "HolodeckSettings": {
+        "steamVRControllerCalibrationFileOverridePath": "",
+        "useSimulator": false
+    },
+    "DisplaySettings": {
+        "warpCameraToDisplayMap": {
+            "warpMap0TargetDisplay": 3,
+            "warpMap1TargetDisplay": 2,
+            "warpMap2TargetDisplay": 0,
+            "warpMap3TargetDisplay": 1
+        },
+        "cameraSetupDelay": 0,
+        "mapOverridePath": "",
+        "verticalMasking": 0.89
+    }
+}

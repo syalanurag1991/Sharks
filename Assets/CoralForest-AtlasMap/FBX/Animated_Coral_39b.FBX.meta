@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 24dae63021e36904d9c22468851b9dcd
+timeCreated: 1507673335
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone5137
+    100004: Bone5138
+    100006: Bone5139
+    100008: Bone5140
+    100010: Bone5141
+    100012: Bone5142
+    100014: Bone5143
+    100016: Bone5144
+    100018: Bone5145
+    100020: Bone5146
+    100022: Bone5147
+    100024: Bone5148
+    100026: Bone5149
+    100028: Bone5150
+    100030: Bone5151
+    100032: Bone5152
+    100034: Bone5153
+    100036: Bone5154
+    100038: Bone5155
+    100040: Bone5156
+    100042: Bone5157
+    100044: Bone5158
+    100046: Bone5159
+    100048: Bone5160
+    100050: Bone5161
+    100052: Bone5162
+    100054: Bone5163
+    100056: Bone5164
+    100058: Coral_39b1
+    100060: Coral_39b2
+    400000: //RootNode
+    400002: Bone5137
+    400004: Bone5138
+    400006: Bone5139
+    400008: Bone5140
+    400010: Bone5141
+    400012: Bone5142
+    400014: Bone5143
+    400016: Bone5144
+    400018: Bone5145
+    400020: Bone5146
+    400022: Bone5147
+    400024: Bone5148
+    400026: Bone5149
+    400028: Bone5150
+    400030: Bone5151
+    400032: Bone5152
+    400034: Bone5153
+    400036: Bone5154
+    400038: Bone5155
+    400040: Bone5156
+    400042: Bone5157
+    400044: Bone5158
+    400046: Bone5159
+    400048: Bone5160
+    400050: Bone5161
+    400052: Bone5162
+    400054: Bone5163
+    400056: Bone5164
+    400058: Coral_39b1
+    400060: Coral_39b2
+    4300000: Coral_39b1
+    4300002: Coral_39b2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Coral_39b1
+    13700002: Coral_39b2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

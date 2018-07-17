@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Examples/ExampleScene.unity
+    guid: 11fcee075a1288c478d071468d3f6dec
+  - enabled: 0
+    path: Assets/Scenes/Sharks_05.unity
+    guid: 01e263c461a542a49aa064f0e45d1050
+  - enabled: 0
+    path: Assets/Scenes/Sharks_06.unity
+    guid: 53475f12c30e8f3469510121e0bad474
+  - enabled: 1
+    path: Assets/Scenes/Sharks_07.unity
+    guid: da7cd4eb6a40634468ed6b62ef40ca63

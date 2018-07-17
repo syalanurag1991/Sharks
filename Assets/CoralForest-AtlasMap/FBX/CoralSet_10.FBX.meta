@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: caea582f448150e45a8dcdfdadb73c86
+timeCreated: 1507673354
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Set_10_Part01
+    100004: Set_10_Part02
+    100006: Set_10_Part03
+    100008: Set_10_Part04
+    100010: Set_10_Part05
+    100012: Set_10_Part06
+    100014: Set_10_Part07
+    100016: Set_10_Part08
+    100018: Set_10_Part09
+    100020: Set_10_Part10
+    100022: Set_10_Part11
+    100024: Set_10_Part12
+    100026: Set_10_Part13
+    100028: Set_10_Part14
+    100030: Set_10_Part15
+    100032: Set_10_Part16
+    100034: Set_10_Part17
+    100036: Set_10_Part18
+    100038: Set_10_Part19
+    100040: Set_10_Part20
+    100042: Set_10_Part21
+    100044: Set_10_Part22
+    100046: Set_10_Part23
+    100048: Set_10_Part24
+    100050: Set_10_Part25
+    100052: Set_10_Part26
+    400000: //RootNode
+    400002: Set_10_Part01
+    400004: Set_10_Part02
+    400006: Set_10_Part03
+    400008: Set_10_Part04
+    400010: Set_10_Part05
+    400012: Set_10_Part06
+    400014: Set_10_Part07
+    400016: Set_10_Part08
+    400018: Set_10_Part09
+    400020: Set_10_Part10
+    400022: Set_10_Part11
+    400024: Set_10_Part12
+    400026: Set_10_Part13
+    400028: Set_10_Part14
+    400030: Set_10_Part15
+    400032: Set_10_Part16
+    400034: Set_10_Part17
+    400036: Set_10_Part18
+    400038: Set_10_Part19
+    400040: Set_10_Part20
+    400042: Set_10_Part21
+    400044: Set_10_Part22
+    400046: Set_10_Part23
+    400048: Set_10_Part24
+    400050: Set_10_Part25
+    400052: Set_10_Part26
+    2300000: //RootNode
+    2300002: Set_10_Part01
+    2300004: Set_10_Part02
+    2300006: Set_10_Part03
+    2300008: Set_10_Part04
+    2300010: Set_10_Part05
+    2300012: Set_10_Part06
+    2300014: Set_10_Part07
+    2300016: Set_10_Part08
+    2300018: Set_10_Part09
+    2300020: Set_10_Part10
+    2300022: Set_10_Part11
+    2300024: Set_10_Part12
+    2300026: Set_10_Part13
+    2300028: Set_10_Part14
+    2300030: Set_10_Part15
+    2300032: Set_10_Part16
+    2300034: Set_10_Part17
+    2300036: Set_10_Part18
+    2300038: Set_10_Part19
+    2300040: Set_10_Part20
+    2300042: Set_10_Part21
+    2300044: Set_10_Part22
+    2300046: Set_10_Part23
+    2300048: Set_10_Part24
+    2300050: Set_10_Part25
+    2300052: Set_10_Part26
+    3300000: //RootNode
+    3300002: Set_10_Part01
+    3300004: Set_10_Part02
+    3300006: Set_10_Part03
+    3300008: Set_10_Part04
+    3300010: Set_10_Part05
+    3300012: Set_10_Part06
+    3300014: Set_10_Part07
+    3300016: Set_10_Part08
+    3300018: Set_10_Part09
+    3300020: Set_10_Part10
+    3300022: Set_10_Part11
+    3300024: Set_10_Part12
+    3300026: Set_10_Part13
+    3300028: Set_10_Part14
+    3300030: Set_10_Part15
+    3300032: Set_10_Part16
+    3300034: Set_10_Part17
+    3300036: Set_10_Part18
+    3300038: Set_10_Part19
+    3300040: Set_10_Part20
+    3300042: Set_10_Part21
+    3300044: Set_10_Part22
+    3300046: Set_10_Part23
+    3300048: Set_10_Part24
+    3300050: Set_10_Part25
+    3300052: Set_10_Part26
+    4300000: Set_10
+    4300002: Set_10_Part12
+    4300004: Set_10_Part01
+    4300006: Set_10_Part02
+    4300008: Set_10_Part03
+    4300010: Set_10_Part04
+    4300012: Set_10_Part05
+    4300014: Set_10_Part06
+    4300016: Set_10_Part07
+    4300018: Set_10_Part08
+    4300020: Set_10_Part23
+    4300022: Set_10_Part10
+    4300024: Set_10_Part22
+    4300026: Set_10_Part13
+    4300028: Set_10_Part21
+    4300030: Set_10_Part14
+    4300032: Set_10_Part15
+    4300034: Set_10_Part16
+    4300036: Set_10_Part17
+    4300038: Set_10_Part18
+    4300040: Set_10_Part19
+    4300042: Set_10_Part20
+    4300044: Set_10_Part11
+    4300046: Set_10_Part09
+    4300048: Set_10_Part26
+    4300050: Set_10_Part25
+    4300052: Set_10_Part24
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

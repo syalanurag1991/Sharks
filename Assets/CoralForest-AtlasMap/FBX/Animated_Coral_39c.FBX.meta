@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: c45900ad8597cac4eb2d05dfcdfb3595
+timeCreated: 1507673349
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone5205
+    100004: Bone5206
+    100006: Bone5207
+    100008: Bone5208
+    100010: Bone5209
+    100012: Bone5210
+    100014: Bone5211
+    100016: Bone5212
+    100018: Bone5213
+    100020: Bone5214
+    100022: Bone5215
+    100024: Bone5216
+    100026: Bone5217
+    100028: Bone5218
+    100030: Bone5219
+    100032: Bone5220
+    100034: Bone5221
+    100036: Bone5222
+    100038: Bone5223
+    100040: Bone5224
+    100042: Bone5225
+    100044: Bone5226
+    100046: Bone5227
+    100048: Bone5228
+    100050: Bone5229
+    100052: Bone5230
+    100054: Bone5231
+    100056: Bone5232
+    100058: Bone5233
+    100060: Bone5234
+    100062: Bone5235
+    100064: Bone5236
+    100066: Bone5237
+    100068: Bone5238
+    100070: Bone5239
+    100072: Bone5240
+    100074: Bone5241
+    100076: Bone5242
+    100078: Bone5243
+    100080: Bone5244
+    100082: Bone5245
+    100084: Bone5246
+    100086: Bone5247
+    100088: Bone5248
+    100090: Bone5249
+    100092: Bone5250
+    100094: Bone5251
+    100096: Bone5252
+    100098: Bone5253
+    100100: Bone5254
+    100102: Bone5255
+    100104: Bone5256
+    100106: Coral_39c1
+    100108: Coral_39c2
+    100110: Coral_39c3
+    400000: //RootNode
+    400002: Bone5205
+    400004: Bone5206
+    400006: Bone5207
+    400008: Bone5208
+    400010: Bone5209
+    400012: Bone5210
+    400014: Bone5211
+    400016: Bone5212
+    400018: Bone5213
+    400020: Bone5214
+    400022: Bone5215
+    400024: Bone5216
+    400026: Bone5217
+    400028: Bone5218
+    400030: Bone5219
+    400032: Bone5220
+    400034: Bone5221
+    400036: Bone5222
+    400038: Bone5223
+    400040: Bone5224
+    400042: Bone5225
+    400044: Bone5226
+    400046: Bone5227
+    400048: Bone5228
+    400050: Bone5229
+    400052: Bone5230
+    400054: Bone5231
+    400056: Bone5232
+    400058: Bone5233
+    400060: Bone5234
+    400062: Bone5235
+    400064: Bone5236
+    400066: Bone5237
+    400068: Bone5238
+    400070: Bone5239
+    400072: Bone5240
+    400074: Bone5241
+    400076: Bone5242
+    400078: Bone5243
+    400080: Bone5244
+    400082: Bone5245
+    400084: Bone5246
+    400086: Bone5247
+    400088: Bone5248
+    400090: Bone5249
+    400092: Bone5250
+    400094: Bone5251
+    400096: Bone5252
+    400098: Bone5253
+    400100: Bone5254
+    400102: Bone5255
+    400104: Bone5256
+    400106: Coral_39c1
+    400108: Coral_39c2
+    400110: Coral_39c3
+    4300000: Coral_39c1
+    4300002: Coral_39c2
+    4300004: Coral_39c3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Coral_39c1
+    13700002: Coral_39c2
+    13700004: Coral_39c3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

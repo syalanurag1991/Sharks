@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1572115658975932}
+  m_IsPrefabParent: 1
+--- !u!1 &1572115658975932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4191398457856624}
+  - component: {fileID: 114241093124202016}
+  - component: {fileID: 114906491807720502}
+  m_Layer: 0
+  m_Name: CompositeWarpDisplayRig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4191398457856624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572115658975932}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -500, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114241093124202016
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572115658975932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58e0f4bc374e6b4da9d5a036fc7a3f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settings:
+    warpCameraToDiplayMap:
+      warpMap0TargetDisplay: 2
+      warpMap1TargetDisplay: 3
+      warpMap2TargetDisplay: 4
+      warpMap3TargetDisplay: 5
+    cameraSetupDelay: 0
+    mapOverridePath: 
+--- !u!114 &114906491807720502
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572115658975932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6e925cc4b9422c4aa37c9fad5b6b032, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _warpMaterial: {fileID: 2100000, guid: c9506fc270781474bb06ead58c065f92, type: 2}
+  _warpTextureShaderProperty: _WarpTex
+  _blendTextureShaderProperty: _BlendTex
+  _textureWidth: 4096
+  _textureHeight: 2160
+  _exrMapFileNames:
+  - warpMap1
+  - warpMap2
+  - warpMap3
+  - warpMap4
+  _blendMapFileNames:
+  - blendMap1.png
+  - blendMap2.png
+  - blendMap3.png
+  - blendMap4.png
+  _clearFlags: 2
